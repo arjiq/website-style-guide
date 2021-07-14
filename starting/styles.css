@@ -1,0 +1,115 @@
+body {
+    font-family: 'Roboto slab', 'Bona Nova', sans-serif;
+    margin: 0 15%;
+  }
+  
+ 
+
+  .header {
+    text-align: center;
+  }
+
+  h1 {
+      font-family: 'Merriweather';
+  }
+
+  .title {
+      text-decoration: underline;
+  }
+  
+  .container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+  }
+  
+  .color-container {
+    width: 100%;
+  }
+  
+  .color-panel {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    
+    
+    min-height: 100px;
+  }
+  
+  .lavender-blush {
+    background-color: #FDE8E9;
+    color: #000;
+  
+  }
+  .cameo-pink {
+      background-color: #E3BAC6;
+      color: #000;
+  }
+  
+  .lilac {
+    background-color: #BC9EC1;
+    color: #000;
+  }
+  
+  .black-coral {
+    background-color: #596475;
+    color: #FFF;
+  }
+  
+  .raisin-black {
+    background-color: #1F2232;
+    color: #FFF;
+  }
+  
+  .font-panel {
+    width: 45%;
+    display: inline;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    
+  }
+  
+  .regular {
+    font-style: normal;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .roboto-slab {
+    font-family: 'Roboto Slab', sans-serif;
+  }
+  
+  .merriweather {
+    font-family: 'Merriweather', monospace;
+  }
+  
+  .bona-nova {
+    font-family: 'Bona Nova', sans-serif;
+  }
+  
+  .text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Roboto Slab', sans-serif;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Roboto Slab', sans-serif;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Bona Nova', sans-serif;
+  }
